@@ -19,3 +19,6 @@ NO UI <a target="_blank" href="https://colab.research.google.com/github/sanctuar
 </a>
 
 ### Kaggle
+UI 
+
+[ NO UI ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/nick088/pyannote-speaker-diarization-3-1-no-ui)
