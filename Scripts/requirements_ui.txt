@@ -1,0 +1,5 @@
+--extra-index-url https://download.pytorch.org/whl/cu113
+torch==2.0.1
+pyannote-audio==3.1.1
+wavio
+gradio==4.36.0
