@@ -14,13 +14,13 @@
 ### Google Colab
 UI <a target="_blank" href="https://colab.research.google.com/github/sanctuary-osai/Pyannote-Speaker-Diarization-3.1/blob/main/Pyannote_Speaker_Diarization_3_1_UI.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a> (NOT WORKING)
+</a>
 
 NO UI <a target="_blank" href="https://colab.research.google.com/github/sanctuary-osai/Pyannote-Speaker-Diarization-3.1/blob/main/Pyannote_Speaker_Diarization_3_1_NO_UI.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 ### Kaggle
-[UI ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/nick088/pyannote-speaker-diarization-3-1-ui) (NOT WORKING)
+[UI ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/nick088/pyannote-speaker-diarization-3-1-ui) 
 
 [NO UI ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/nick088/pyannote-speaker-diarization-3-1-no-ui)
