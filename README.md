@@ -6,6 +6,12 @@
 
 ## Local
 
+1. Click Code annd Download as a Zip.
+
+2. Unzip it.
+
+3. Run Run_UI.bat
+
 ## Online
 
 ### Hugging Face Space
