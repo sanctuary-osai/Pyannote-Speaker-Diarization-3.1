@@ -8,14 +8,10 @@ if torch.cuda.is_available() and torch.backends.cuda.is_built():
     # A CUDA compatible GPU was found.
     print("CUDA device found, enabling.")
     device = "cuda"
-elif torch.backends.mps.is_available() and torch.backends.mps.is_built():
-    # Apple M1/M2 machines have the MPS framework.
-    print("Apple MPS device found, enabling.")
-    device = "mps"
 else:
     # Else we're defaulting to CPU.
     device = "cpu"
-    print("No CUDA or MPS devices found, running on CPU.")
+    print("No CUDA device found, running on CPU.")
 
 # instantiate the pipeline
 try:
