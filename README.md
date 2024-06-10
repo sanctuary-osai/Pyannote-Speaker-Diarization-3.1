@@ -30,3 +30,13 @@ NO UI <a target="_blank" href="https://colab.research.google.com/github/sanctuar
 [UI ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/nick088/pyannote-speaker-diarization-3-1-ui) 
 
 [NO UI ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/nick088/pyannote-speaker-diarization-3-1-no-ui)
+
+## Audio Labelling
+
+1. Get the labels.txt file
+
+2. [Download Audacity](https://www.audacityteam.org/download/)
+
+3. Open Audacity, click Open and import the Audio, then import the labels ![image](https://github.com/sanctuary-osai/Pyannote-Speaker-Diarization-3.1/assets/91847579/b0ed6dc2-26c2-41af-94cc-7cc0d2987f78)
+
+4. use these settings and then use the search bar to select the speaker you want for example SPEAKER_00 ![image](https://github.com/sanctuary-osai/Pyannote-Speaker-Diarization-3.1/assets/91847579/8e27ee5a-6f2c-404a-8da8-531e7daf2741)
