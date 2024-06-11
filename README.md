@@ -10,7 +10,9 @@
 
 2. Unzip it.
 
-3. Run Run_UI.bat
+3. Run the ui:
+- For Windows: Run_UI.bat
+- For Mac & Linux: Run_UI.sh
 
 ## Online
 
