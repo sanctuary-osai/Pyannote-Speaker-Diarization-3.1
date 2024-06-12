@@ -16,7 +16,7 @@ RUN_SCRIPT_FILE="$(dirname "$0")/Scripts/Run_UI.py"
 if [ ! -d "$(dirname "$0")/venv_ui" ]; then
     echo "Creating virtual environment..."
     # Create a virtual environment named "venv_ui" in the root directory
-    if [[ "$OSTYPE" == "linux-gnu"* || "$OSTYPE" == "darwin"* ]]; then
+    if [[ "$OSTYPE" == "linux"* || "$OSTYPE" == "darwin"* ]]; then
         python3 -m venv "$(dirname "$0")/venv_ui"
     else
         python -m venv "$(dirname "$0")/venv_ui"
