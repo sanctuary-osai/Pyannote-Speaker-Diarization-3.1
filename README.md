@@ -1,6 +1,6 @@
 # Pyannote-Speaker-Diarization-3.1
 
-[![Discord](https://img.shields.io/discord/1198701940511617164?color=%23738ADB&label=Discord&style=for-the-badge)](https://discord.gg/osai)
+[![Discord](https://img.shields.io/discord/1198701940511617164?color=%23738ADB&label=Discord&style=for-the-badge)](https://discord.gg/Xw7yc2jA9w)
 
 [Pyannote Speaker Diarization 3.1](https://huggingface.co/pyannote/speaker-diarization-3.1), separating the speakers of an audio
 
